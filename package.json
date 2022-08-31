@@ -42,8 +42,8 @@
     "android-local": "node index.js --disableReport --tags @android --env android --browser android",
     "ios-local": "node index.js --disableReport --tags @ios --env ios --browser ios",
     "ios": "node index.js --disableReport --tags @ios --remoteService lambdatest --env ios --extraSettings ios",
-    "ltlocal": "node index.js --disableReport --remoteService lambdatest --extraSettings",
-    "ciltdev": "nyc node index.js --disableReport --tags @uattest --remoteService lambdatest --extraSettings",
+    "ltlocal": "node index.js --disableReport --remoteService lambdatest --extraSettings chrome --featureFiles",
+    "ciltdev": "nyc node index.js --disableReport --tags @uattest --remoteService lambdatest",
     "pkgcheck": "yarn install --check-files"
   },
   "homepage": "https://github.com/larryg01/klassi-js#readme",

@@ -1,0 +1,25 @@
+---
+version: 0.1
+runson: win
+concurrency: 2
+autosplit: true
+pre:
+  - npm install
+runtime:
+ language: node
+ version: 14.16.0
+
+cacheKey: '{{ checksum "yarn.lock" }}'
+cacheDirectories:
+  - node_modules
+testDiscovery:
+  type: raw
+  mode: static
+  command: grep  -nri '@uattest' features -ir --include=\*.feature | awk '{print$1}'  | sed 's/:.*//'
+
+uploadArtefacts:
+    - name: Reports
+      path:
+         - reports\
+
+testRunnerCommand: yarn run ltlocal $test

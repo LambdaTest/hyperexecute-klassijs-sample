@@ -1,29 +1,5 @@
-<p align="center">
-    <h1 align="center" font-size: 2.5em > klassi-js <br>
-    <a href="https://github.com/larryg01/klassi-js/">
-        <img alt="Klassi-Js" src="./runtime/img/klassiLogo.png">
-    </a> </h1> </p>
-
-<p align="center">
-    <a href ="https://travis-ci.org/larryg01/klassi-js">
-    <img alt="Build Status" src="https://travis-ci.org/larryg01/klassi-js.svg?branch=master">
-    </a> 
-    <a href="https://github.com/larryg01/klassi-js/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/larryg01/klassi-js">
-    </a> 
-    <a href="https://gitter.im/klassi-js/klassi-js">
-    <img alt="Gitter" src="https://badges.gitter.im/klassi-js/klassi-js.svg">
-    </a>
-    <a href="https://webdriver.io/">
-    <img alt="WebdriverIO" src="https://img.shields.io/badge/tested%20with-webdriver.io-%23ea5906">
-    </a>
-    <a href="https://webdriver.io/docs/api.html">
-    <img alt="WebdriverIO" src="https://img.shields.io/badge/webdriverio-docs-40b5a4">
-    </a> <br>
-  klassi-Js is a debuggable BDD Javascript test automation framework. Built on <a href="http://webdriver.io/"> webdriver.io <a/> (Next-gen browser and mobile automation test framework for Node.js)</a> and <a href="https://github.com/cucumber/cucumber-js"> cucumber-js </a> with integrated Visual, accessibility and API Testing, your test can run locally or in the cloud using Lambdatest, BrowserStack or Sauce Labs 
-</p>
- 
-
+ <h1 font-size: 2.5em > HyperExecute klassi-js Sample <br></h1>
+   
 <img height="100" alt="hyperexecute_logo" src="https://user-images.githubusercontent.com/1688653/159473714-384e60ba-d830-435e-a33f-730df3c3ebc6.png">
 
 HyperExecute is a smart test orchestration platform to run end-to-end Selenium tests at the fastest speed possible. HyperExecute lets you achieve an accelerated time to market by providing a test infrastructure that offers optimal speed, test orchestration, and detailed execution logs.
@@ -240,9 +216,9 @@ HyperExecute also facilitates the provision to download the artifacts on your lo
 
 ![image](https://user-images.githubusercontent.com/47247309/160443096-902088fc-3b7b-409c-bd5c-196a01cf806c.png)
 
-```
 
-## Secrets Management
+
+### Secrets management
 
 In case you want to use any secret keys in the YAML file, the same can be set by clicking on the *Secrets* button the dashboard.
 

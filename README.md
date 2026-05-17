@@ -21,6 +21,11 @@ With TestMu AI (Formerly LambdaTest), you can run Selenium Tests on HyperExecute
 
 ### Prerequisites
 
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
+### Prerequisites
+
 Before using HyperExecute, download the HyperExecute CLI for your OS and export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* from your TestMu AI (Formerly LambdaTest) Profile page.
 
 * [Pre-requisites](#pre-requisites)

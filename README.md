@@ -1,19 +1,22 @@
- <h1 font-size: 2.5em > HyperExecute klassi-js Sample <br></h1>
-   
-<img height="100" alt="hyperexecute_logo" src="https://user-images.githubusercontent.com/1688653/159473714-384e60ba-d830-435e-a33f-730df3c3ebc6.png">
+# Run Selenium Tests on HyperExecute Using TestMu AI (Formerly LambdaTest) - Klassi-js Sample
+
+<p align="center">
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
+  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
+</p>
+
 
 HyperExecute is a smart test orchestration platform to run end-to-end Selenium tests at the fastest speed possible. HyperExecute lets you achieve an accelerated time to market by providing a test infrastructure that offers optimal speed, test orchestration, and detailed execution logs.
 
 The overall experience helps teams test code and fix issues at a much faster pace. HyperExecute is configured using a YAML file. Instead of moving the Hub close to you, HyperExecute brings the test scripts close to the Hub!
 
-* <b>HyperExecute HomePage</b>: https://www.lambdatest.com/hyperexecute
-* <b>Lambdatest HomePage</b>: https://www.lambdatest.com
-* <b>LambdaTest Support</b>: [support@lambdatest.com](mailto:support@lambdatest.com)
+* <b>HyperExecute HomePage</b>: 
+* <b>Lambdatest HomePage</b>: 
+* <b>TestMu AI (Formerly LambdaTest) Support</b>: support@testmuai.com
 
-To know more about how HyperExecute does intelligent Test Orchestration, do check out [HyperExecute Getting Started Guide](https://www.lambdatest.com/support/docs/getting-started-with-hyperexecute/)
+To know more about how HyperExecute does intelligent Test Orchestration, do check out HyperExecute Getting Started Guide
 
 
-# How to run Selenium automation tests on HyperExecute (using Klassi-js framework)
 
 * [Pre-requisites](#pre-requisites)
    - [Download HyperExecute CLI](#download-hyperexecute-cli)
@@ -31,7 +34,7 @@ To know more about how HyperExecute does intelligent Test Orchestration, do chec
 
 # Pre-requisites
 
-Before using HyperExecute, you have to download HyperExecute CLI corresponding to the host OS. Along with it, you also need to export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the [LambdaTest Profile](https://accounts.lambdatest.com/detail/profile) page.
+Before using HyperExecute, you have to download HyperExecute CLI corresponding to the host OS. Along with it, you also need to export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the TestMu AI (Formerly LambdaTest) Profile page.
 
 ## Download HyperExecute CLI
 
@@ -45,7 +48,7 @@ Also, it is recommended to download the binary in the project's parent directory
 
 ## Configure Environment Variables
 
-Before the tests are run, please set the environment variables LT_USERNAME & LT_ACCESS_KEY from the terminal. The account details are available on your [LambdaTest Profile](https://accounts.lambdatest.com/detail/profile) page.
+Before the tests are run, please set the environment variables LT_USERNAME & LT_ACCESS_KEY from the terminal. The account details are available on your TestMu AI (Formerly LambdaTest) Profile page.
 
 For macOS:
 
@@ -72,7 +75,7 @@ set LT_ACCESS_KEY=LT_ACCESS_KEY
 
 Auto-split execution mechanism lets you run tests at predefined concurrency and distribute the tests over the available infrastructure. Concurrency can be achieved at different levels - file, module, test suite, test, scenario, etc.
 
-For more information about auto-split execution, check out the [Auto-Split Getting Started Guide](https://www.lambdatest.com/support/docs/getting-started-with-hyperexecute/#smart-auto-test-splitting)
+For more information about auto-split execution, check out the Auto-Split Getting Started Guide
 
 ### Core
 
@@ -172,7 +175,7 @@ The CLI option *--config* is used for providing the custom HyperExecute YAML fil
 ./hyperexecute --config hyperexecute.yaml
 ```
 
-Visit [HyperExecute Automation Dashboard](https://automation.lambdatest.com/hyperexecute) to check the status of execution
+Visit HyperExecute Automation Dashboard to check the status of execution
 
 
 ### Pre Steps and Dependency Caching
@@ -236,7 +239,28 @@ HyperExecute lets you navigate from/to *Test Logs* in Automation Dashboard from/
 
 
 ## We are here to help you :)
-* LambdaTest Support: [support@lambdatest.com](mailto:support@lambdatest.com)
-* HyperExecute HomePage: https://www.lambdatest.com/support/docs/getting-started-with-hyperexecute/
-* Lambdatest HomePage: https://www.lambdatest.com
+* TestMu AI (Formerly LambdaTest) Support: support@testmuai.com
+* HyperExecute HomePage: 
+* Lambdatest HomePage: 
 
+## LambdaTest is Now TestMu AI
+
+On **January 12, 2026**, [LambdaTest evolved to TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/), the world's first fully autonomous **Agentic AI Quality Engineering Platform**.
+
+Same team. Same infrastructure. Same customer accounts. All existing LambdaTest logins, scripts, capabilities, and integrations continue to work without change.
+
+🔗 Find the new home for [LambdaTest](https://www.testmuai.com).
+
+### How LambdaTest Evolved into TestMu AI
+
+In 2017, we launched LambdaTest with a simple mission: make testing fast, reliable, and accessible. As LambdaTest grew, we expanded into Test Intelligence, Visual Regression Testing, Accessibility Testing, API Testing, and Performance Testing, covering the full depth of the testing lifecycle.
+
+As software development entered the AI era, testing had to evolve, too. We rebuilt the architecture to be AI-native from the ground up, with autonomous agents that **plan, author, execute, analyze, and optimize tests** while keeping humans in the loop. The platform integrates with your repos, CI, IDEs, and terminals, continuously learning from every code change and development signal.
+
+That evolution earned a new name: **TestMu AI**, built for an AI-first future of quality engineering. TestMu is not a new name for us. It is the name of our annual community conference, which has brought together 100,000+ quality engineers to discuss how AI would reshape testing, long before that became an industry norm.
+
+What started as a high-performance cloud testing platform has transformed into an AI-native, multi-agent system powering a connected, end-to-end quality layer. That evolution defined a new identity: LambdaTest evolved into TestMu AI, built for an AI-first future of quality engineering.
+
+## Support
+
+Got a question? Email [support@testmuai.com](mailto:support@testmuai.com) or chat with us 24x7 from our chat portal.

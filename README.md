@@ -12,7 +12,7 @@ The overall experience helps teams test code and fix issues at a much faster pac
 
 * <b>HyperExecute HomePage</b>: 
 * <b>Lambdatest HomePage</b>: 
-* <b>TestMu AI (Formerly LambdaTest) Support</b>: support@testmuai.com
+* <b>TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Support</b>: support@testmuai.com
 
 To know more about how HyperExecute does intelligent Test Orchestration, do check out HyperExecute Getting Started Guide
 
@@ -34,7 +34,7 @@ To know more about how HyperExecute does intelligent Test Orchestration, do chec
 
 # Pre-requisites
 
-Before using HyperExecute, you have to download HyperExecute CLI corresponding to the host OS. Along with it, you also need to export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the TestMu AI (Formerly LambdaTest) Profile page.
+Before using HyperExecute, you have to download HyperExecute CLI corresponding to the host OS. Along with it, you also need to export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Profile page.
 
 ## Download HyperExecute CLI
 
@@ -48,7 +48,7 @@ Also, it is recommended to download the binary in the project's parent directory
 
 ## Configure Environment Variables
 
-Before the tests are run, please set the environment variables LT_USERNAME & LT_ACCESS_KEY from the terminal. The account details are available on your TestMu AI (Formerly LambdaTest) Profile page.
+Before the tests are run, please set the environment variables LT_USERNAME & LT_ACCESS_KEY from the terminal. The account details are available on your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Profile page.
 
 For macOS:
 
@@ -239,19 +239,19 @@ HyperExecute lets you navigate from/to *Test Logs* in Automation Dashboard from/
 
 
 ## We are here to help you :)
-* TestMu AI (Formerly LambdaTest) Support: support@testmuai.com
+* TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Support: support@testmuai.com
 * HyperExecute HomePage: 
 * Lambdatest HomePage: 
 
-## TestMu AI (Formerly LambdaTest) Community
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly LambdaTest) Certifications
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly LambdaTest)
+## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 

@@ -21,11 +21,6 @@ With TestMu AI (Formerly LambdaTest), you can run Selenium Tests on HyperExecute
 
 ### Prerequisites
 
-- Node.js and npm (latest stable)
-- A TestMu AI (Formerly LambdaTest) account with your username and access key
-
-### Prerequisites
-
 Before using HyperExecute, download the HyperExecute CLI for your OS and export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* from your TestMu AI (Formerly LambdaTest) Profile page.
 
 * [Pre-requisites](#pre-requisites)
@@ -154,7 +149,6 @@ The *testRunnerCommand* contains the command that is used for triggering the tes
 ```yaml
 testRunnerCommand:  yarn run ltlocal $test
 ```
-![image](https://user-images.githubusercontent.com/47247309/160439999-aa78ffac-f8f4-4506-aef4-a69c6de652aa.png)
 
 
 ### Artifacts Management
@@ -223,7 +217,6 @@ uploadArtefacts:
 
 HyperExecute also facilitates the provision to download the artifacts on your local machine. To download the artifacts, click on Artifacts button corresponding to the associated TestID.
 
-![image](https://user-images.githubusercontent.com/47247309/160443096-902088fc-3b7b-409c-bd5c-196a01cf806c.png)
 
 
 

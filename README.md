@@ -5,18 +5,18 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
+## Getting Started
 
-HyperExecute is a smart test orchestration platform to run end-to-end Selenium tests at the fastest speed possible. HyperExecute lets you achieve an accelerated time to market by providing a test infrastructure that offers optimal speed, test orchestration, and detailed execution logs.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-The overall experience helps teams test code and fix issues at a much faster pace. HyperExecute is configured using a YAML file. Instead of moving the Hub close to you, HyperExecute brings the test scripts close to the Hub!
+With TestMu AI (Formerly LambdaTest), you can run Klassi-js tests on HyperExecute, the smart test orchestration platform for end-to-end Selenium tests at the fastest speed possible.
 
-* <b>HyperExecute HomePage</b>: 
-* <b>TestMu AI (Formerly LambdaTest) HomePage</b>: 
-* <b>TestMu AI (Formerly LambdaTest) Support</b>: support@testmuai.com
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
-To know more about how HyperExecute does intelligent Test Orchestration, do check out HyperExecute Getting Started Guide
+### Prerequisites
 
-
+Before using HyperExecute, download the HyperExecute CLI for your OS and export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* from your TestMu AI (Formerly LambdaTest) Profile page.
 
 * [Pre-requisites](#pre-requisites)
    - [Download HyperExecute CLI](#download-hyperexecute-cli)
@@ -31,10 +31,6 @@ To know more about how HyperExecute does intelligent Test Orchestration, do chec
 * [Run Klassi-js tests on Windows and Linux platforms](#run-Klassi-js-tests-on-windows-and-linux-platforms)
 * [Secrets Management](#secrets-management)
 * [Navigation in Automation Dashboard](#navigation-in-automation-dashboard)
-
-# Pre-requisites
-
-Before using HyperExecute, you have to download HyperExecute CLI corresponding to the host OS. Along with it, you also need to export the environment variables *LT_USERNAME* and *LT_ACCESS_KEY* that are available in the TestMu AI (Formerly LambdaTest) Profile page.
 
 ## Download HyperExecute CLI
 
@@ -236,12 +232,6 @@ env:
 ## Navigation in Automation Dashboard
 
 HyperExecute lets you navigate from/to *Test Logs* in Automation Dashboard from/to *HyperExecute Logs*. You also get relevant get relevant Selenium test details like video, network log, commands, Exceptions & more in the Dashboard. Effortlessly navigate from the automation dashboard to HyperExecute logs (and vice-versa) to get more details of the test execution.
-
-
-## We are here to help you :)
-* TestMu AI (Formerly LambdaTest) Support: support@testmuai.com
-* HyperExecute HomePage: 
-* TestMu AI (Formerly LambdaTest) HomePage: 
 
 ## TestMu AI (Formerly LambdaTest) Community
 
